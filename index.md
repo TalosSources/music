@@ -5,7 +5,7 @@
 
 ## Doesn't work. Maybe this?
 <audio controls="controls">
-  <source type="audio/mp3" src="/music.mp3"></source>
+  <source type="audio/webm" src="/music.webm"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
